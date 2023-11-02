@@ -20,10 +20,10 @@ opencv
 Download [KITTI 2012](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=stereo), [KITTI 2015](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo)
 ### Training
 Run the script `./scripts/kitti12_active_train.sh` to train the Adjoint Network on the KITTI 2012 dataset. 
-Please update `DATAPATH` in the bash file as your training data path. The corresponding checkpoints are in the `./checkpoints/kitti12/` folder. 
+Please update `DATAPATH` in the bash file as your training data path. The corresponding checkpoints are in the `./checkpoints/kitti12/` folder. Download [ \[here\]](https://drive.google.com/drive/folders/1tEH6Ur2QzpyDayg2-qUaSlCCOoNeQvQb?usp=drive_link)
 
 ### Evaluation
-Run the script `./scripts/kitti12_active_test.sh` to evaluation the proposed active disparity sampling method on the KITTI 2012 dataset. Please update `DATAPATH` in the bash file as your testing data path. The corresponding checkpoints are in the `./checkpoints/kitti12/` folder. 
+Run the script `./scripts/kitti12_active_test.sh` to evaluation the proposed active disparity sampling method on the KITTI 2012 dataset. Please update `DATAPATH` in the bash file as your testing data path. The corresponding checkpoints are in the `./checkpoints/kitti12/` folder. Download [ \[here\]](https://drive.google.com/drive/folders/1tEH6Ur2QzpyDayg2-qUaSlCCOoNeQvQb?usp=drive_link)
 
 # Citation
 If you find this code useful in your research, please cite:
