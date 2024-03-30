@@ -1,4 +1,4 @@
-# Active Disparity Sampling for Stereo Matching with Adjoint Network
+# Active Disparity Sampling for Stereo Matching with Adjoint Network (IEEE Transactions on Image Processing, 2023)
 
 ## Abstract
 
@@ -30,9 +30,12 @@ If you find this code useful in your research, please cite:
 
 ```
 @article{zhang2023active,
-  title={Active Disparity Sampling for Stereo Matching with Adjoint Network},
+  title={Active Disparity Sampling for Stereo Matching With Adjoint Network},
   author={Zhang, Chenghao and Meng, Gaofeng and Tian, Kun and Ni, Bolin and Xiang, Shiming},
-  year={2023}
+  journal={IEEE Transactions on Image Processing},
+  year={2023},
+  publisher={IEEE}
+}
 }
 ```
 ## Acknowledgements
